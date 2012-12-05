@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="choose_country">Get to Know:</string>
+    <string name="background_map">Map</string>
+    <string name="country">a country</string>
+    
+</resources>
